@@ -1,0 +1,25 @@
+{
+  "name": "tail-file",
+  "version": "1.0.0",
+  "description": "tail file for socket io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lhcpig/tail-file.git"
+  },
+  "keywords": [
+    "socket.io"
+  ],
+  "author": "lhcpig",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lhcpig/tail-file/issues"
+  },
+  "homepage": "https://github.com/lhcpig/tail-file#readme",
+  "dependencies": {
+    "socket.io": "^1.4.6"
+  }
+}
